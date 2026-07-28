@@ -1,0 +1,9 @@
+* 5926e9d (HEAD -> master) Lab 4: Update gitignore with engineering backup extension filters
+*   af0e9b2 Lab 4: Resolved merge conflict inside hello.xml manually
+|\  
+| * 31435b8 Lab 4: Add hello.xml inside GitWork branch
+* | d013a3f Lab 4: Add hello.xml inside Main line with conflicting content
+|/  
+* 7e60d83 Lab 3: Staged structural shifts inside GitNewBranch
+* 8664a47 Lab 2: Configure gitignore rules for tracking exclusions
+* 8c8a880 Lab 1: Initialize repository and add welcome.txt
